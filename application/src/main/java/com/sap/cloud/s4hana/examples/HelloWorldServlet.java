@@ -1,4 +1,4 @@
-package com.sap.could.s4hana.examples;
+package com.sap.cloud.s4hana.examples;
 
 import org.slf4j.Logger;
 
